@@ -78,6 +78,7 @@ console.log(dropWhile([0, 6, 1, 2], (value) => value < 5));
 
 //     return array.slice(droppedCount);
 //   }
+// 其實跟解法一差不多
 
 // slice 方法
 
